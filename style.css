@@ -103,3 +103,9 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+
+@media screen and (max-width:750px) {
+    .todo-list{
+        width:100%
+    }
+}
